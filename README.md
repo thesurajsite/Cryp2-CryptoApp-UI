@@ -33,6 +33,6 @@ It features a dark-themed interface, smooth navigation, and interactive UI compo
 
 | Analytics Screen | Exchange Screen | Record Screen |
 |------------------|-----------------|---------------|
-| ![Analytics Screen](./Screenshots/analytics.png) | ![Exchange Screen](./Screenshots/exchange.png) | ![Record Screen](./Screenshots/record.png) |
+| ![Analytics Screen](./Screenshots/analytics.jpg) | ![Exchange Screen](./Screenshots/exchange.jpg) | ![Record Screen](./Screenshots/record.jpg) |
 
 ---
